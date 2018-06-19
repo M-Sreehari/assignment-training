@@ -1,0 +1,5 @@
+# ignore everything
+/ignore/*
+
+#exception
+!/ignore/present.txt
